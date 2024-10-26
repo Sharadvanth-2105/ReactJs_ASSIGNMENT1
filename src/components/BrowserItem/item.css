@@ -1,0 +1,33 @@
+.item {
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  background-color: #ffffff;
+  justify-content: space-between;
+}
+.time {
+  color: #000000;
+  font-weight: bold;
+  margin: 3px;
+  padding: 5px;
+}
+.image {
+  height: 4vh;
+  padding-left: 10px;
+}
+.head {
+  color: #000000;
+  font-family: Roboto;
+  padding-left: 16px;
+}
+.para {
+  font-family: Roboto;
+  color: #475569;
+  margin-left: 4px;
+  padding-left: 4px;
+}
+.itemcard {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

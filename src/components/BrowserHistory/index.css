@@ -1,0 +1,42 @@
+.container {
+  background-color: #f8fafc;
+  height: 100vh;
+}
+.header {
+  background-color: #3367d6;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.image-1 {
+  width: 15vw;
+}
+.image-2 {
+  background-color: #2850a7;
+  padding: 14px;
+  border-width: 0px;
+}
+.input {
+  background-color: #2850a7;
+  color: #ffffff;
+  padding: 7px;
+  font-family: Roboto;
+  font-size: large;
+  border-width: 0px;
+  width: 50vw;
+  margin-left: 4px;
+}
+.card {
+  display: flex;
+  flex-direction: row;
+}
+.ul {
+  margin: 30px;
+}
+.history{
+  font-family:Roboto;
+  font-weight:bold;
+  text-align:center;
+  font-size:large;
+}
